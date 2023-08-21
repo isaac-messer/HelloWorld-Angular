@@ -16,7 +16,7 @@ import { TopNavBarComponent } from './components/top-nav-bar/top-nav-bar.compone
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
